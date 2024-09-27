@@ -1,4 +1,4 @@
-package metube.com.eurekaservice;
+package org.example.eurekaservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
